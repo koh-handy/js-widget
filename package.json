@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/koh-handy/js-widget/issues"
   },
-  "homepage": "https://github.com/koh-handy/js-widget#readme"
+  "homepage": "https://github.com/koh-handy/js-widget#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.5.2",
+    "webpack": "^4.17.1",
+    "webpack-dev-server": "^3.1.5"
+  }
 }
