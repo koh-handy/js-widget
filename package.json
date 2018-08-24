@@ -1,0 +1,19 @@
+{
+  "name": "js-widget",
+  "version": "0.0.1",
+  "description": "Handy JS Widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koh-handy/js-widget.git"
+  },
+  "author": "koh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koh-handy/js-widget/issues"
+  },
+  "homepage": "https://github.com/koh-handy/js-widget#readme"
+}
